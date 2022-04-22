@@ -1593,3 +1593,14 @@ textarea, label {
     margin-right: 0;
   }
 }
+
+.botão{
+  background-color: #02B7CE;
+  border-radius: 5px;
+  border-color: #cccccc;
+}
+
+.modoDark {
+  font-size: 15px;
+  color: #FFF;
+}

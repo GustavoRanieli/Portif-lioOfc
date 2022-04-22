@@ -179,3 +179,8 @@
 		}, 1500);
 	});
 })(jQuery);
+
+function myFunction() {
+	var modoDark = url('../dark/index.html');
+	return modoDark
+  }
